@@ -1,0 +1,25 @@
+body {
+    background: black;
+}
+
+#logo {
+    font-size: 12px;
+
+    width: 600px;
+    height: 100px;
+
+    text-align: center;
+    color: white;
+    white-space: pre;
+
+    position: absolute;
+
+    margin-left: -300px;
+    margin-top: -50px;
+    top: 50%;
+    left: 50%;
+}
+
+#logo code {
+    font-family: Droid Sans Mono;
+}
