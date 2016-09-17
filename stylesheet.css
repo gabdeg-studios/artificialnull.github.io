@@ -3,8 +3,6 @@ body {
 }
 
 #logo {
-    font-size: 12px;
-
     width: 600px;
     height: 100px;
 
@@ -19,7 +17,36 @@ body {
     top: 50%;
     left: 50%;
 }
-
-#logo code {
+#logo pre {
+    font-size: 12px;
     font-family: Droid Sans Mono, monospace;
+}
+
+
+#bottom {
+    position: absolute;
+    bottom: 0;
+    width: 600px;
+    height: 20px;
+
+    left: 50%;
+    margin-left: -300px;
+
+    text-align: center;
+}
+#bottom a {
+    font-size: 12px;
+    font-family: Droid Sans Mono, monospace;
+}
+#bottom a:link {
+    color: #ffffff;
+}
+#bottom a:visited {
+    color: #aaaaaa;
+}
+#bottom a:hover {
+    color: #aaaaaa;
+}
+#bottom a:active {
+    color: #ffffff;
 }
