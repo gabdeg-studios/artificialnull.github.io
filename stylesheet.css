@@ -53,3 +53,32 @@ body {
 #bottom a:active {
     color: #888888;
 }
+
+#top {
+    position: absolute;
+    top: 0;
+    width: 600px;
+    height: 20px;
+
+    left: 50%;
+    margin-left: -300px;
+
+    text-align: center;
+}
+#top a {
+    font-size: 12px;
+    font-family: Droid Sans Mono, monospace;
+}
+#top a:link {
+    color: #bbbbbb;
+}
+#top a:visited {
+    color: #444444;
+}
+#top a:hover {
+    color: #ffffff;
+}
+#top a:active {
+    color: #888888;
+}
+
