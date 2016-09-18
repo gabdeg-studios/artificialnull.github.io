@@ -39,14 +39,14 @@ body {
     font-family: Droid Sans Mono, monospace;
 }
 #bottom a:link {
-    color: #ffffff;
+    color: #bbbbbb;
 }
 #bottom a:visited {
-    color: #aaaaaa;
+    color: #444444;
 }
 #bottom a:hover {
-    color: #aaaaaa;
+    color: #ffffff;
 }
 #bottom a:active {
-    color: #ffffff;
+    color: #888888;
 }
