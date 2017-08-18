@@ -21,7 +21,7 @@ body {
 }
 #logo pre {
     font-size: 12px;
-    font-family: Droid Sans Mono, monospace;
+    font-family: monospace;
 }
 
 
@@ -39,7 +39,7 @@ body {
 }
 #bottom a {
     font-size: 12px;
-    font-family: Droid Sans Mono, monospace;
+    font-family: monospace;
 }
 #bottom a:link {
     color: #bbbbbb;
@@ -67,7 +67,7 @@ body {
 }
 #top a {
     font-size: 12px;
-    font-family: Droid Sans Mono, monospace;
+    font-family: monospace;
 }
 #top a:link {
     color: #bbbbbb;
