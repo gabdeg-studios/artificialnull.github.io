@@ -24,6 +24,14 @@ body {
     font-family: monospace;
 }
 
+#content {
+    color: white;
+    font-size: 12px;
+    font-family: monospace;
+    width: 1200px;
+    margin-left: -600px;
+    left: 50%;
+}
 
 #bottom {
     position: absolute;
