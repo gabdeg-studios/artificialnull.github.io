@@ -10,7 +10,6 @@ p {
 
 #logo {
     width: 1200px;
-    height: 100px;
 
     text-align: center;
     color: white;
@@ -21,10 +20,10 @@ p {
 /*  border: 3px green solid; */
 
     margin-left: -600px;
-    margin-top: -50px;
-    top: 50%;
+    top: 40%;
     left: 50%;
 }
+
 #logo pre {
     font-size: 12px;
     font-family: monospace;
