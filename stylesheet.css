@@ -10,7 +10,7 @@ p {
 }
 
 #logo {
-    width: 1200px;
+    width: 60%;
 
     text-align: center;
     color: white;
@@ -19,7 +19,7 @@ p {
 
 /*  border: 3px green solid; */
 
-    margin-left: -600px;
+    margin-left: -30%;
     top: 40%;
     left: 50%;
 }
