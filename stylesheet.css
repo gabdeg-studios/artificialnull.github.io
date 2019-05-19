@@ -47,13 +47,21 @@ a:link {
     color: #d8d8d8;
 }
 a:visited {
-    color: #b8b8b8;
+    color: #585858;
 }
 a:hover {
     color: #f8f8f8;
 }
 a:active {
     color: #e8e8e8;
+}
+
+#top a {
+    color: #a1b65c;
+}
+
+#bottom a {
+    color: #7cafc2;
 }
 
 #top {
