@@ -2,10 +2,14 @@ body {
     background: #181818;
 }
 
-p {
+#logo p {
     color: #d8d8d8;
     font-family: monospace;
     font-size: 12px;
+    text-align: left;
+}
+
+#logo a {
     text-align: left;
 }
 
@@ -44,16 +48,16 @@ a {
     font-family: monospace;
 }
 a:link {
-    color: #d8d8d8;
+    color: #7cafc2;
 }
 a:visited {
-    color: #585858;
+    color: #ba8baf;
 }
 a:hover {
-    color: #f8f8f8;
+    color: #7cafc2;
 }
 a:active {
-    color: #e8e8e8;
+    color: #7cafc2;
 }
 
 #top a {
@@ -61,7 +65,7 @@ a:active {
 }
 
 #bottom a {
-    color: #7cafc2;
+    color: #ab4642;
 }
 
 #top {
