@@ -35,6 +35,12 @@ body {
     font-family: monospace;
 }
 
+#content {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 960px;
+}
+
 #bottom {
     z-index: 999;
     position: fixed;
