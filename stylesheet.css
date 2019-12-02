@@ -9,7 +9,7 @@ body {
     color: #d8d8d8;
     font-family: monospace;
     font-size: 12px;
-    text-align: left;
+    text-align: justify;
 }
 
 #logo li {
@@ -37,7 +37,7 @@ body {
 
 #content {
     width: 100%;
-    margin: 0 auto;
+    margin: 20px auto 40px auto;
     max-width: 960px;
 }
 
