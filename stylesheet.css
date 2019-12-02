@@ -17,7 +17,7 @@ body {
 }
 
 #logo {
-    width: 50%;
+    width: 100%;
 
     text-align: center;
     color: #d8d8d8;
@@ -26,9 +26,8 @@ body {
 
 /*  border: 3px green solid; */
 
-    margin-left: -25%;
     top: 40%;
-    left: 50%;
+    left: 0%;
 }
 
 #logo pre {
